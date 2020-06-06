@@ -1,0 +1,9 @@
+MIDlet-1: VampiresDawn,/s.png,VD
+MIDlet-Icon: /s.png
+MIDlet-Jar-Size: 211604
+MIDlet-Jar-URL: CLDC_1_0_240x320_20_15x15_default_vddoh_min_de_dawnaticgames.jar
+MIDlet-Name: VampiresDawn
+MIDlet-Vendor: DawnaticGames
+MIDlet-Version: 1.19.6
+MicroEdition-Configuration: CLDC-1.0
+MicroEdition-Profile: MIDP-2.0

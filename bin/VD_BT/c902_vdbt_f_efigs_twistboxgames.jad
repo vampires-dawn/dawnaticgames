@@ -1,0 +1,9 @@
+MIDlet-1: VDBattleTowers,/s.png,DOTC
+MIDlet-Icon: /s.png
+MIDlet-Jar-Size: 304426
+MIDlet-Jar-URL: c902_vdbt_f_efigs_twistboxgames.jar
+MIDlet-Name: VDBattleTowers
+MIDlet-Vendor: DawnaticGames
+MIDlet-Version: 1.0.3
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.0
